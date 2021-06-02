@@ -1,0 +1,4 @@
+﻿  binarySearch.cpp
+C:\Users\gabri\OneDrive - nd.edu\Personal Projects\Code Summer 2021\algorithms\binarySearch\binarySearch\binarySearch.cpp(12,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gabri\OneDrive - nd.edu\Personal Projects\Code Summer 2021\algorithms\binarySearch\binarySearch\binarySearch.cpp(29,17): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  binarySearch.vcxproj -> C:\Users\gabri\OneDrive - nd.edu\Personal Projects\Code Summer 2021\algorithms\binarySearch\Debug\binarySearch.exe
